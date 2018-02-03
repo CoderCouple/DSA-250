@@ -3,7 +3,7 @@ package Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayListDemo1 {
+public class ArrayListDemo {
 
 	public static List<String> Names = new ArrayList<String>();
 	

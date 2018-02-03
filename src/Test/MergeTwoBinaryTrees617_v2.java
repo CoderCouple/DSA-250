@@ -1,6 +1,6 @@
 package Test;
 
-public class MergeTrees {
+public class MergeTwoBinaryTrees617_v2 {
 
 	public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
 
